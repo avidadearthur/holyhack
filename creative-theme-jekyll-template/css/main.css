@@ -117,3 +117,21 @@ img::selection { color: white; background: transparent; }
 img::-moz-selection { color: white; background: transparent; }
 
 body { -webkit-tap-highlight-color: #222; }
+
+.col-lg-8.col-lg-offset-2.text-center.custom {
+  margin-left: 0 !important;
+  width: 100% !important;
+}
+
+
+header.analytics {
+  background-image: url(../img/header1.jpg) !important;
+}
+
+header.crosscompat {
+  background-image: url(../img/header2.jpg) !important;
+}
+
+header.humanintheloo {
+  background-image: url(../img/header3.jpg) !important;
+}
