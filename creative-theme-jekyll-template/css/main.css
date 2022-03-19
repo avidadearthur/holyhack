@@ -135,3 +135,7 @@ header.crosscompat {
 header.humanintheloo {
   background-image: url(../img/header3.jpg) !important;
 }
+
+iframe {
+  max-width: 100% !important;
+}
